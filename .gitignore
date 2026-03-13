@@ -1,0 +1,8 @@
+node_modules/
+uploads/
+.env
+data/embeddings.json
+.claude/
+dataset/
+dataloader/.claude/
+dataloader/dataset/
